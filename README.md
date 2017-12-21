@@ -1,0 +1,1 @@
+The photostability of oxime Strobilurin molecules are closely related to the location of the LUMO orbital. This code is to automatically classify the group of molecules based on the LUMO information in the .fchk files.
